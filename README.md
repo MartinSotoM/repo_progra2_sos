@@ -1,1 +1,1 @@
-# repo_progra2_sos
+# Repo insano para programación 2
