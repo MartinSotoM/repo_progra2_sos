@@ -9,3 +9,4 @@ git diff // Ver modificaciones
 git restore // Descartar cambios
 git switch (rama) // Cambia la rama a trabajar
 git pull // Descarga cambios de Git
+git merge (Nombre) // Subir cambios de una rama al main
